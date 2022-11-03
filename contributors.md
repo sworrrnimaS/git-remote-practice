@@ -2,4 +2,4 @@
 
 | Sl. No. | Name                                                           | Institution                                                         | Skills                                                             |
 | ------- | -------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| 1       | Garuav Shah                                                    | Sagarmatha Engineering College                                      | Flutter mobile app development                                     |
+| 1       | Gaurav Shah                                                    | Sagarmatha Engineering College                                      | Flutter mobile app development                                     |
