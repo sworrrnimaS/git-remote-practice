@@ -2,4 +2,4 @@
 
 | Sl. No. | Name                                                           | Institution                                                         | Skills                                                             |
 | ------- | -------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------ |
-|1        | Sauharda Khadka                                                | Sagarmatha Engineering College                                      | html,css,js                                                        |
+|1        | Sauharda Khadka(ksauh78)                                       | Sagarmatha Engineering College                                      | html,css,js                                                        |
